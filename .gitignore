@@ -1,0 +1,8 @@
+.cache
+.vagrant
+.viminfo
+.gradle
+.mvn
+build
+cache
+gradle
